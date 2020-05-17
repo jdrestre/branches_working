@@ -153,14 +153,15 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
+## License
+Public Domain. No copy write protection. 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave) 
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave) 
 Simón Parra - [Github](https://github.com/Simonster04) / [Twitter](https://twitter.com/Simonster04) 
 Juan David Restrepo - [Github](https://github.com/jdrestre) / [Twitter](https://twitter.com/jdrestre) 
 
 Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
